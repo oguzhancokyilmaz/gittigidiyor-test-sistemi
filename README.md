@@ -1,6 +1,6 @@
 # gittigidiyor-test-sistemi
-
-- Login kısmı açıldı
+- Anasayfaya giriş yapıldı.
+- Login kısmı açıldı.
 - Email başarı ile girildi.
 - Şifre başarı ile girildi.
 - Giriş işlemi başarılı.

@@ -6,7 +6,7 @@
 - Giriş işlemi başarılı.
 - Arama kısmına bilgisayar yazıldı.
 - Bilgisayar araması yapıldı.
-- 2. arama sonuç sayfasına gidildi.
+- İkinci arama sonuç sayfasına gidildi.
 - Rasgele bir bilgisayar seçildi.
 - Seçilen ürün sepete eklendi.
 - Sepete girildi. Bilgisayar Liste Fiyatı ile Sepet Fiyatı karşılaştırıldı.

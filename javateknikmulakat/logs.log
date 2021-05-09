@@ -1,0 +1,21 @@
+2021-05-09 04:24:13.673 INFO  BaseTest:30 - Anasayfa açıldı
+2021-05-09 04:24:22.660 INFO  BaseTest:42 - Login kısmı açıldı
+2021-05-09 04:24:22.868 INFO  LoginAutomation:35 - Email başarı ile girildi.
+2021-05-09 04:24:23.032 INFO  LoginAutomation:43 - Şifre başarı ile girildi.
+2021-05-09 04:24:27.226 INFO  LoginAutomation:51 - Giriş işlemi başarılı.
+2021-05-09 04:24:27.650 INFO  LoginAutomation:59 - Arama kısmına bilgisayar yazıldı.
+2021-05-09 04:24:32.326 INFO  LoginAutomation:63 - Bilgisayar araması yapıldı.
+2021-05-09 04:24:35.854 INFO  LoginAutomation:69 - 2. arama sonuç sayfasına gidildi.
+2021-05-09 04:24:38.008 INFO  LoginAutomation:78 - Rasgele bir bilgisayar seçildi.
+2021-05-09 04:24:38.467 INFO  LoginAutomation:82 - Seçilen ürün sepete eklendi.
+2021-05-09 04:24:44.636 INFO  LoginAutomation:93 - Sepete girildi. Bilgisayar Fiyatı : 3.919,10 TL Sepet Fiyatı : 3.919,10 TL
+2021-05-09 04:24:44.636 INFO  LoginAutomation:98 - Ürünün liste fiyatı ile sepet fiyatı aynıdır.
+2021-05-09 04:24:49.766 INFO  LoginAutomation:109 - Ürün sayısı arttırıldı.
+2021-05-09 04:24:52.355 INFO  LoginAutomation:120 - Ürün sepetten silindi.
+2021-05-09 04:24:52.355 INFO  BaseTest:49 - Test başarıyla bitti
+
+
+
+
+
+
